@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VAM-D
+- 👀 I’m interested in combining AI tech with automotive development which mainly focused on how do we use AI to accelerate building validation tests plan or methods or analys or predict test data for engineering vehcile
+- 🌱 I’m currently learning the basic knowlege of AI such like Embedding, NN, Python etc, I'm a fresher for learning coding and related knowlege, but a expert in automotive development, especially in validation tests.
+-
+- If anyone in automotive industry has intresting in AI and working on the area of how to use AI serving for our vehicle development work, don't hesitate to contact me
